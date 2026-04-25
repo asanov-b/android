@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.portfolio.app-debug-32:/drawable_profile_placeholder.xml.flat",
+        "source": "com.example.portfolio.app-main-34:/drawable/profile_placeholder.xml"
+    },
+    {
+        "merged": "com.example.portfolio.app-debug-32:/drawable_my_photo.jpeg.flat",
+        "source": "com.example.portfolio.app-main-34:/drawable/my_photo.jpeg"
+    },
+    {
+        "merged": "com.example.portfolio.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.portfolio.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.portfolio.app-debug-32:/layout_fragment_contact.xml.flat",
+        "source": "com.example.portfolio.app-main-34:/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "com.example.portfolio.app-debug-32:/drawable_ic_portfolio.xml.flat",
+        "source": "com.example.portfolio.app-main-34:/drawable/ic_portfolio.xml"
+    },
+    {
+        "merged": "com.example.portfolio.app-debug-32:/layout_fragment_home.xml.flat",
+        "source": "com.example.portfolio.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.portfolio.app-debug-32:/layout_fragment_about.xml.flat",
+        "source": "com.example.portfolio.app-main-34:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.example.portfolio.app-debug-32:/layout_item_project.xml.flat",
+        "source": "com.example.portfolio.app-main-34:/layout/item_project.xml"
+    },
+    {
+        "merged": "com.example.portfolio.app-debug-32:/layout_fragment_projects.xml.flat",
+        "source": "com.example.portfolio.app-main-34:/layout/fragment_projects.xml"
+    }
+]

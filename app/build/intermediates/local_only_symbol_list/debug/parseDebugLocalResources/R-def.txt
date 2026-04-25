@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color slate_900
+color teal_700
+color white
+drawable ic_portfolio
+drawable my_photo
+drawable profile_placeholder
+id appTitle
+id openLinkButton
+id profileImage
+id projectLink
+id projectName
+id projectTech
+id projectsRecyclerView
+id shortIntro
+id studentName
+id tabLayout
+id viewPager
+layout activity_main
+layout fragment_about
+layout fragment_contact
+layout fragment_home
+layout fragment_projects
+layout item_project
+string app_name
+style Theme.PortfolioApp
